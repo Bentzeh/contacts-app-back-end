@@ -1,0 +1,8 @@
+{
+  "name": "ContactsApp-Back-End",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Bentzeh/ContactsApp-Back-End.git",
+  "author": "Bentzeh <Bentzeh@gmail.com>",
+  "license": "MIT"
+}
