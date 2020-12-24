@@ -2,7 +2,7 @@
   "name": "contacts-app-back-end",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/Bentzeh/ContactsApp-Back-End.git",
+  "repository": "https://github.com/Bentzeh/contacts-app-back-end.git",
   "author": "Bentzeh <Bentzeh@gmail.com>",
   "license": "MIT",
   "dependencies": {
